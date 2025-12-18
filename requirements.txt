@@ -4,10 +4,13 @@ charset-normalizer==3.4.4
 click==8.3.1
 colorama==0.4.6
 dash==3.3.0
+defusedxml==0.7.1
 docutils==0.22.3
 et_xmlfile==2.0.0
 filetype==1.2.0
 Flask==3.1.2
+fonttools==4.61.1
+fpdf2==2.8.5
 idna==3.11
 importlib_metadata==8.7.0
 itsdangerous==2.2.0
