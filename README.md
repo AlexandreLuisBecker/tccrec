@@ -30,7 +30,7 @@ python .\dash\dashweb.py - Executa o dashboard username == "admin" and password 
 
 ## Operação
 
-    1 - Na tela de Cadastro precisa tirar a foto. Clica no Botão "FOTO" e aperte Q para ir tirando as fotos. Precisa apertar umas 10 vezes, pois são 10 fotos.
+    1 - Na tela de Cadastro precisa tirar a foto. Clica no Botão "FOTO" e aperte Q para ir tirando as fotos. Precisa apertar umas 20 vezes, pois são 20 fotos.
     2 - Depois preencha os dados do Usuário como nome, cpf, cargo e e-mail. E clica em Salvar.
     3 - Volte para Home e Clica em "Reconhecimento" Abrir reconhecimento e espere aparecer o quadrado vermelho com seu nome e aperte "Q" no teclado.
     4 - Pronto, registro de ponto feito com sucesso.
